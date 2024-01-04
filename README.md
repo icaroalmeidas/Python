@@ -20,9 +20,7 @@ Por este motivo abaixo calculamos a depreciação e adicionamos uma coluna a bas
 ## Mapa de calor
 
 Aqui analisando o nosso mapa de calor podemos verificar as relações entre as variaveis.
-
-
-![image](![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628)
+![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628)
 
 Analisando o mapa de calor podemos verificar que há uma forte relação entre a Depreciação e o ano do carro.
 Preço de venda e o preço atual tem uma relação forte de 0.88. 
@@ -32,18 +30,9 @@ Estes numeros confirmam o que acontece na realidade dos preços dos carros.
 
 ## Principais bibliotecas
 - Pandas,Numpy ,Matplotlib e Seaborn.
-- 
-## You can find me at:
-&nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
+
+## Visite meu linkedin e aproveite minhas conexões.
+&nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 
-## Stages of Code Development:
-- Importation and Familiarization with the Dataset.
-- I noticed early on that class 0 could be easily separated, but classes 1 and 2 were closer together.
-- After removing class 0 and comparing only classes 1 and 2, I used the decision tree method for separation.
-
-## Results and Submission on Kaggle.
-- I used various metric parameters to assess the accuracy of the method, including Recall, Accuracy, Precision, and the confusion matrix, ensuring minimal error in all cases. 
-  
-![image](https://github.com/BrunoFelipeCB/Dataset-iris/assets/99086238/26f37a46-bf5a-4e5b-aca8-276ebfee25ab)

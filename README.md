@@ -1,4 +1,4 @@
-# [Dataset-cars](https://github.com/BrunoFelipeCB/Dataset-iris/blob/main/Iris.DataSet.ipynb)
+# [Dataset-cars](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
 This repository was made to explain the project of **[Sklearn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)**:
 
 **The comments in the codes are in PT-BR**

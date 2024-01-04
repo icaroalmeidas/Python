@@ -1,5 +1,6 @@
-# [Dataset-cars](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
-This repository was made to explain the project of **[Sklearn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)**:
+# [Dataset-cars - clique aqui!](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
+
+[Fonte do Dataset](https://www.kaggle.com/datasets/bhavikjikadara/car-price-prediction-dataset/data)
 
 ## Objectives:
 Verificar se existe alguma relação entre as variaveis. 

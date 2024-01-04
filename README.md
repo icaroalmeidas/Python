@@ -1,11 +1,9 @@
 # [Dataset-cars](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
 This repository was made to explain the project of **[Sklearn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)**:
 
-**The comments in the codes are in PT-BR**
 ## Objectives:
-- Simple database separating classes.
 
-  ![image](https://github.com/BrunoFelipeCB/Dataset-iris/assets/99086238/0690973e-63ee-4883-a970-e423e582e4c2)
+![image](![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628))
 
 ## Main libraries used:
 - Pandas,Numpy ,Matplotlib, Sklearn, Seaborn.

@@ -2,7 +2,7 @@
 
 [Fonte do Dataset](https://www.kaggle.com/datasets/bhavikjikadara/car-price-prediction-dataset/data)
 
-## Objectives:
+## Objectivos:
 Verificar se existe alguma relação entre as variaveis. 
 
 Existe alguma relação em quanto maior o numero de donos do carro menor o preço de venda?

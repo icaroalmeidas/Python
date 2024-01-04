@@ -2,8 +2,25 @@
 This repository was made to explain the project of **[Sklearn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)**:
 
 ## Objectives:
+Verificar se existe alguma relação entre as variaveis. 
+
+Existe alguma relação em quanto maior o numero de donos do carro menor o preço de venda?
+Existe alguma relação entre a depreciação e o ano do carro? Forte ou fraca?
+
+## DataSet
+
+![image](https://github.com/icaroalmeidas/Python/assets/106759439/0bbd0e40-2ee9-4247-8469-bb8487de455f)
+ Podemos verificar a base de dados na imagem acima. 
+ 
+
+![image](https://github.com/icaroalmeidas/Python/assets/106759439/94e5d9da-e1db-42ba-891c-a9bfa1e13c45)
+
+
+## Mapa de calor
 
 ![image](![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628)
+
+Analisando o mapa de calor podemos verificar que há uma forte relação entre a Depreciação e o ano do carro. 
 
 ## Main libraries used:
 - Pandas,Numpy ,Matplotlib, Sklearn, Seaborn.

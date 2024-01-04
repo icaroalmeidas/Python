@@ -3,7 +3,7 @@ This repository was made to explain the project of **[Sklearn](https://scikit-le
 
 ## Objectives:
 
-![image](![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628))
+![image](![Heatmap_image](https://github.com/icaroalmeidas/Python/assets/106759439/2338ecba-fe25-4a40-ad7e-32fcdf118628)
 
 ## Main libraries used:
 - Pandas,Numpy ,Matplotlib, Sklearn, Seaborn.

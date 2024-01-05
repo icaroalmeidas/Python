@@ -8,6 +8,9 @@ Verificar se existe alguma relação entre as variaveis.
 Existe alguma relação em quanto maior o numero de donos do carro menor o preço de venda?
 Existe alguma relação entre a depreciação e o ano do carro? Forte ou fraca?
 
+## Principais bibliotecas
+- Pandas,Numpy ,Matplotlib e Seaborn.
+
 ## DataSet
 
 ![image](https://github.com/icaroalmeidas/Python/assets/106759439/0bbd0e40-2ee9-4247-8469-bb8487de455f)
@@ -28,9 +31,6 @@ Preço de venda e o preço atual tem uma relação forte de 0.88.
 Depreciação e o ano do carro tem uma relação forte de 0.8.
 
 Estes numeros confirmam o que acontece na realidade dos preços dos carros.
-
-## Principais bibliotecas
-- Pandas,Numpy ,Matplotlib e Seaborn.
 
 ## Visite meu linkedin e aproveite minhas conexões.
 &nbsp;<a href="https://www.linkedin.com/in/icaroalmeidas/">

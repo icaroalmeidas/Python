@@ -1,8 +1,8 @@
-# [Dataset-cars - clique aqui!](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
+# [Dataset_cars - clique aqui!](https://github.com/icaroalmeidas/Python/blob/main/Analise%20car%20price%20prediction.ipynb)
 
 [Fonte do Dataset](https://www.kaggle.com/datasets/bhavikjikadara/car-price-prediction-dataset/data)
 
-## Objectivos:
+## Objetivos:
 Verificar se existe alguma relação entre as variaveis. 
 
 Existe alguma relação em quanto maior o numero de donos do carro menor o preço de venda?
